@@ -93,3 +93,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 04/09/2023 00:47:46 UTC
 <!--END_SECTION:waka-->
+
+
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
