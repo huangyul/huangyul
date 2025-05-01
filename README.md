@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2025 - To: 29 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
-Vue.js           19 hrs 56 mins  ████████████████░░░░░░░░░   64.46 %
-TypeScript       4 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Go               3 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Blade Template   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-JavaScript       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Vue.js           18 hrs 10 mins  ██████████████▓░░░░░░░░░░   59.03 %
+TypeScript       4 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Go               4 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+JavaScript       1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Blade Template   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
