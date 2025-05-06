@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2025 - To: 04 May 2025
+From: 28 April 2025 - To: 05 May 2025
 
-Vue.js           8 hrs 45 mins   ██████████████▒░░░░░░░░░░   57.92 %
-Go               2 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-JavaScript       1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-TypeScript       1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-CSHTML           31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Vue.js                     7 hrs 54 mins   ████████████▓░░░░░░░░░░░░   51.08 %
+Go                         4 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
+JavaScript                 1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+TypeScript                 1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+SSH Config                 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
