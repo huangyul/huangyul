@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
-Vue.js                     9 hrs 6 mins    ███████████▓░░░░░░░░░░░░░   46.55 %
-Go                         6 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.00 %
-TypeScript                 2 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-Lua                        33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Nginx configuration file   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Vue.js                     10 hrs 25 mins  ███████████░░░░░░░░░░░░░░   44.61 %
+Go                         8 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   36.23 %
+TypeScript                 2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Lua                        33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Nginx configuration file   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
