@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2025 - To: 07 June 2025
+From: 01 June 2025 - To: 08 June 2025
 
 Vue.js           9 hrs 18 mins   ██████████░░░░░░░░░░░░░░░   40.32 %
 Go               4 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 %
