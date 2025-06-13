@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2025 - To: 11 June 2025
+From: 05 June 2025 - To: 12 June 2025
 
-Vue.js            12 hrs 56 mins  █████████▓░░░░░░░░░░░░░░░   39.29 %
-Go                5 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-JavaScript        3 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-PHP               2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Markdown          2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Vue.js            13 hrs 21 mins  ██████████▒░░░░░░░░░░░░░░   40.74 %
+Go                5 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+PHP               2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+JavaScript        2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Markdown          2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
 ```
 
 <!--END_SECTION:waka-->
