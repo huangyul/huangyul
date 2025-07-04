@@ -3,11 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2025 - To: 02 July 2025
+From: 26 June 2025 - To: 03 July 2025
 
-Vue.js           14 hrs 36 mins  ██████████████▓░░░░░░░░░░   58.80 %
-JavaScript       5 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-Other            1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Vue.js           18 hrs 38 mins  █████████████████▓░░░░░░░   70.09 %
+JavaScript       4 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Blade Template   1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Other            37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
