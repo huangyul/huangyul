@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
 Go           17 hrs 58 mins  ██████████████▒░░░░░░░░░░   57.20 %
 Vue.js       7 hrs 17 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
