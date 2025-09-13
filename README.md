@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2025 - To: 11 September 2025
+From: 05 September 2025 - To: 12 September 2025
 
-Go               9 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   46.09 %
-Vue.js           5 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-Blade Template   2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-CSHTML           1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-JavaScript       48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Go               5 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.07 %
+Vue.js           5 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   32.75 %
+Blade Template   2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+CSHTML           1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+JavaScript       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
