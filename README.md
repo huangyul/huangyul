@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2025 - To: 06 November 2025
+From: 31 October 2025 - To: 07 November 2025
 
-Blade Template   10 hrs 52 mins  ██████████▒░░░░░░░░░░░░░░   41.91 %
-Vue.js           7 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.23 %
-CSHTML           3 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-TypeScript       2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-CSS              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Vue.js           12 hrs          ███████████▓░░░░░░░░░░░░░   46.60 %
+Blade Template   9 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   35.15 %
+CSHTML           3 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+CSS              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+SCSS             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
