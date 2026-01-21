@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 19 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
-Vue.js           14 hrs 55 mins  ████████████░░░░░░░░░░░░░   48.50 %
-Go               8 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
-TypeScript       3 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-CSHTML           1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-JavaScript       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Vue.js       16 hrs 50 mins  ██████████████▓░░░░░░░░░░   58.07 %
+Go           5 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+TypeScript   3 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+JavaScript   1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Markdown     1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
