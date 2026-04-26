@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 24 April 2026
+From: 18 April 2026 - To: 25 April 2026
 
-Vue              10 hrs 48 mins        ██████████▒░░░░░░░░░░░░░░   41.68 %
-Python           5 hrs 47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
-CSHTML           2 hrs 53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-Other            2 hrs 20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Vue              11 hrs 34 mins        ██████████░░░░░░░░░░░░░░░   39.59 %
+Python           5 hrs 51 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+CSHTML           3 hrs 11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Other            2 hrs 41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
 ```
 
 <!--END_SECTION:waka-->
