@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2026 - To: 04 May 2026
+From: 28 April 2026 - To: 05 May 2026
 
-Vue              9 hrs 13 mins         ██████████████░░░░░░░░░░░   55.42 %
-Markdown         4 hrs 12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
-Blade Template   1 hr 49 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Other            22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Vue              5 hrs 57 mins         █████████▓░░░░░░░░░░░░░░░   38.18 %
+Markdown         5 hrs                 ████████░░░░░░░░░░░░░░░░░   32.09 %
+Blade Template   1 hr 21 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Python           1 hr 16 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+Other            37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
