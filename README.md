@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2026 - To: 13 July 2026
+From: 07 July 2026 - To: 14 July 2026
 
-Vue           9 hrs 32 mins         █████████████▒░░░░░░░░░░░   53.27 %
-TypeScript    3 hrs 13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-Markdown      1 hr 48 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-JavaScript    32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Vue           7 hrs 34 mins         ███████████▒░░░░░░░░░░░░░   45.30 %
+TypeScript    3 hrs 22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+Markdown      1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Other         50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 ```
 
 <!--END_SECTION:waka-->
