@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Go                         8 hrs 18 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
-TypeScript                 7 hrs 35 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
-Markdown                   4 hrs 47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-Vue                        3 hrs 11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-PHP                        2 hrs 10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+TypeScript                 7 hrs 13 mins         ███████░░░░░░░░░░░░░░░░░░   28.47 %
+Go                         5 hrs 43 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
+Markdown                   4 hrs 19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+Vue                        2 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+PHP                        1 hr 57 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
 ```
 
 <!--END_SECTION:waka-->
